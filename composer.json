@@ -1,12 +1,13 @@
 {
 	"name" : "weilewantieba/1688openapi",
 	"description" : "openapi",
+	"type" : "library",
 	"keywords" : [
 		"1688"
 	],
 	"license" : "MIT",
 	"authors" : [{
-			"name" : "lennon"
+			"name" : "sy"
 		}
 	],
 	"require" : {
